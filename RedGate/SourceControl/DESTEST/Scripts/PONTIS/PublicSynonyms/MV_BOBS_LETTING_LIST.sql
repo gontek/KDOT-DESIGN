@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_bobs_letting_list FOR pontis.mv_bobs_letting_list;

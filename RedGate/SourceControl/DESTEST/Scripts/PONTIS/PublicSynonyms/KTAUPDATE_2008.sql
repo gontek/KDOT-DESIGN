@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ktaupdate_2008 FOR pontis.ktaupdate_2008;

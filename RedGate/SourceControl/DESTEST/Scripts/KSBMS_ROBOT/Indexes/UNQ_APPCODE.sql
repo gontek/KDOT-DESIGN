@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.unq_appcode ON ksbms_robot.ksbms_app_register(appcode);

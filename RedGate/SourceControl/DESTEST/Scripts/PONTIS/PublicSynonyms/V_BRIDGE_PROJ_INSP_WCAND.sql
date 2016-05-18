@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_bridge_proj_insp_wcand FOR pontis.v_bridge_proj_insp_wcand;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_det_matrix_b FOR pontis.dm_det_matrix_b;

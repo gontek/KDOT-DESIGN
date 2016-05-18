@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.ndx_xch_type_arch ON ksbms_robot.ds_change_log_archive(exchange_type);

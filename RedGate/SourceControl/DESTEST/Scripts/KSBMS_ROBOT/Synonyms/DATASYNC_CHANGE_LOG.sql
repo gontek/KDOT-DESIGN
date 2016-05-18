@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.datasync_change_log FOR pontis.datasync_change_log;

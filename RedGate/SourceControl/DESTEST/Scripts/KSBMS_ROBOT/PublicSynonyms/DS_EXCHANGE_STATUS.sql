@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_exchange_status FOR ksbms_robot.ds_exchange_status;

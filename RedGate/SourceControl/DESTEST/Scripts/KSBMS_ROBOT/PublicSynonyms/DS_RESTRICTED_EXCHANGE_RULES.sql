@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_restricted_exchange_rules FOR ksbms_robot.ds_restricted_exchange_rules;

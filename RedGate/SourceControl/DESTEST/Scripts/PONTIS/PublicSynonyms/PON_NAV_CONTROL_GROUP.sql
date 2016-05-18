@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_nav_control_group FOR pontis.pon_nav_control_group;

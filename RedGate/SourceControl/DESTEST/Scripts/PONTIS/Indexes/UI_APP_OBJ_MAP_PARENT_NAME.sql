@@ -1,0 +1,1 @@
+CREATE INDEX pontis.ui_app_obj_map_parent_name ON pontis.ui_app_obj_map(parent_obj_inst_name);

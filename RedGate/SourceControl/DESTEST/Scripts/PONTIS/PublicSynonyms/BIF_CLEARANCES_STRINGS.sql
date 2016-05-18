@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM bif_clearances_strings FOR pontis.bif_clearances_strings;

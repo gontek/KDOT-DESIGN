@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM deb.roadway FOR pontis.roadway;

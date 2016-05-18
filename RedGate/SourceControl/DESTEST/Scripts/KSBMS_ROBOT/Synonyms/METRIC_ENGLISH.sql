@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.metric_english FOR pontis.metric_english;

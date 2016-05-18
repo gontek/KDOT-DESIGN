@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM load_ratings_upl_newbr FOR pontis.load_ratings_upl_newbr;

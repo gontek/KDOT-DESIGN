@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.pbcatv_x ON ksbms_robot.pbcatvld(pbv_name);

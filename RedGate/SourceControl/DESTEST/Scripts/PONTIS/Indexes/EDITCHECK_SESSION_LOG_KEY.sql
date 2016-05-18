@@ -1,0 +1,1 @@
+CREATE INDEX pontis.editcheck_session_log_key ON pontis.editcheck_session_log(session_key);

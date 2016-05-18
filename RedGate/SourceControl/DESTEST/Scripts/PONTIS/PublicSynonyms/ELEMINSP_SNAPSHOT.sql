@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eleminsp_snapshot FOR pontis.eleminsp_snapshot;

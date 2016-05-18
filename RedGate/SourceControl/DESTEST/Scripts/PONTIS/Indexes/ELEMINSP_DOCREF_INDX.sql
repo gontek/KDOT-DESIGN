@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.eleminsp_docref_indx ON pontis.eleminsp(docrefkey);

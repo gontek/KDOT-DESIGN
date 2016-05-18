@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.elemdefs FOR pontis.elemdefs;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_contron FOR pontis.dm_control;

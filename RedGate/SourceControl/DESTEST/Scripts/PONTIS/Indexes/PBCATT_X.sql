@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.pbcatt_x ON pontis.pbcattbl(pbt_tnam,pbt_ownr);

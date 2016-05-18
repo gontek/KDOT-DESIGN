@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ksbms_app_register FOR ksbms_robot.ksbms_app_register;

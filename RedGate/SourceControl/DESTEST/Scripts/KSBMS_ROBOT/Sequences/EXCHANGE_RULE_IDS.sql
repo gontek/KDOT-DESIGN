@@ -1,0 +1,1 @@
+CREATE SEQUENCE ksbms_robot.exchange_rule_ids INCREMENT BY 10 MINVALUE 10;

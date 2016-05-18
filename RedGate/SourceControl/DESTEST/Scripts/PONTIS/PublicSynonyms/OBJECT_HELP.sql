@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM object_help FOR pontis.object_help;

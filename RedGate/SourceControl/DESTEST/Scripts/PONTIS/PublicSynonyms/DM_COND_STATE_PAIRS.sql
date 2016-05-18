@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_cond_state_pairs FOR pontis.dm_cond_state_pairs;

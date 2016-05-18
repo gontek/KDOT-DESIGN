@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_config_options FOR ksbms_robot.ds_config_options;

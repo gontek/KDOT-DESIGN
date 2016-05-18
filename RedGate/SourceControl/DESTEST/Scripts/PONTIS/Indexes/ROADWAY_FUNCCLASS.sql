@@ -1,0 +1,1 @@
+CREATE INDEX pontis.roadway_funcclass ON pontis.roadway(funcclass);

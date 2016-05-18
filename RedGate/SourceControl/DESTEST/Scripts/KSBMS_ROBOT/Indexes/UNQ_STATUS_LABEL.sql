@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.unq_status_label ON ksbms_robot.ds_exchange_status(status_label);

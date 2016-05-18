@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.bridge_bridge_id ON pontis.bridge(bridge_id);

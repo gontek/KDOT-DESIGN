@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.userstrunit FOR pontis.userstrunit;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.prj_programs FOR pontis.prj_programs;

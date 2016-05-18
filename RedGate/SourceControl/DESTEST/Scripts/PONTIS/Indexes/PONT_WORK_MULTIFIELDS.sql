@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_multifields ON pontis.pont_work(sckey,ykey,brkey,strunitkey,objkind,objcode,actkind,actcode);

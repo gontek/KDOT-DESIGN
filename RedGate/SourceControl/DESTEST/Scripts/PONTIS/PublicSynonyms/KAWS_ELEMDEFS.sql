@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM kaws_elemdefs FOR pontis.kaws_elemdefs;

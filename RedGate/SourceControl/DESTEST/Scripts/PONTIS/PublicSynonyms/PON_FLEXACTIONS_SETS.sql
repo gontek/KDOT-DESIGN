@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_flexactions_sets FOR pontis.pon_flexactions_sets;

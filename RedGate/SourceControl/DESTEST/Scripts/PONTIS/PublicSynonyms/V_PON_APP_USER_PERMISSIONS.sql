@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_pon_app_user_permissions FOR pontis.v_pon_app_user_permissions;

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.prj_fund_projects ON pontis.prj_prjfund(projkey);

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.elemdefs_ecatkey_etypkey ON pontis.elemdefs(ecatkey,etypkey);

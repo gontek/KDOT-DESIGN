@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM kaws_struc_temp_2 FOR pontis.kaws_struc_temp_2;

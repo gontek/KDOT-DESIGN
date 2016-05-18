@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM imprsets FOR pontis.imprsets;

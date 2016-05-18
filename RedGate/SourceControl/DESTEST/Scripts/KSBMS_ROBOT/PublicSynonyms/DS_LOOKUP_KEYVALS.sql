@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_lookup_keyvals FOR ksbms_robot.ds_lookup_keyvals;

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.prj_witems7keyindex ON pontis.prj_witems(ykey,brkey,strunitkey,objkind,objcode,actkind,actcode);

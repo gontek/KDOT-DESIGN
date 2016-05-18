@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pon_elem_defs_matdefs ON pontis.pon_elem_defs(elem_mat_key);

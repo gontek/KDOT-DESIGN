@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_det_prob_1_bin FOR pontis.dm_det_prob_1_bin;

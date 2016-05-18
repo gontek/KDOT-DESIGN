@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.unq_map_combo ON ksbms_robot.ds_transfer_map(table_name,column_name,sit_id,sat_id);

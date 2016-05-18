@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_kta_no FOR pontis.f_get_kta_no;

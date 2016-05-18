@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM userproj FOR pontis.userproj;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_session_batch FOR pontis.pon_session_batch;

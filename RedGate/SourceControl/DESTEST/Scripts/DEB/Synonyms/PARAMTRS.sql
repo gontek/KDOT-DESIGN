@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM deb.paramtrs FOR pontis.paramtrs;

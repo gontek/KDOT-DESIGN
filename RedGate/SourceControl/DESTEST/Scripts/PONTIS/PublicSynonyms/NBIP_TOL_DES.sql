@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nbip_tol_des FOR pontis.nbip_tol_des;

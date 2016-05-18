@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM eltypdfs FOR pontis.eltypdfs;

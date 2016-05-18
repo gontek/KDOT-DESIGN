@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM default_coptions FOR pontis.default_coptions;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.default_scenparam FOR pontis.default_scenparam;

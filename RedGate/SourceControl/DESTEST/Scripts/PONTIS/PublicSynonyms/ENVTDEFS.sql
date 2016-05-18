@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM envtdefs FOR pontis.envtdefs;

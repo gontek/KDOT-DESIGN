@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_cals_elements_new FOR pontis.mv_cals_elements_new;

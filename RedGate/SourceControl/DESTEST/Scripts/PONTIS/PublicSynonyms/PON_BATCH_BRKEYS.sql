@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_batch_brkeys FOR pontis.pon_batch_brkeys;

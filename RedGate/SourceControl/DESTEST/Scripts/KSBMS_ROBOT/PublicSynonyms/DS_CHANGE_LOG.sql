@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_change_log FOR ksbms_robot.ds_change_log;

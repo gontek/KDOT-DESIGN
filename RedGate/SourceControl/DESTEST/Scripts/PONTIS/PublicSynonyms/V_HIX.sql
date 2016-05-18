@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_hix FOR pontis.v_hix;

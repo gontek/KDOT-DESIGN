@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM datadict FOR pontis.datadict;

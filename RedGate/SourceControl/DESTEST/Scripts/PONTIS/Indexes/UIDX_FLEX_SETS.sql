@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.uidx_flex_sets ON pontis.pon_flexactions_sets(flex_action_key,flex_parent_act_key);

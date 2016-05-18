@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM health_index_results FOR pontis.health_index_results;

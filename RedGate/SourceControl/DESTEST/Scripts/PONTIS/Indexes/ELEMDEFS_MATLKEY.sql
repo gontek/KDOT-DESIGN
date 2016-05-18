@@ -1,0 +1,1 @@
+CREATE INDEX pontis.elemdefs_matlkey ON pontis.elemdefs(matlkey);

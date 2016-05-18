@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_insp_workcand FOR pontis.pon_insp_workcand;

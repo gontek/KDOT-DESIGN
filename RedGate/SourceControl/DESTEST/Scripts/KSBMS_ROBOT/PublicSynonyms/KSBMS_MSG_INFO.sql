@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ksbms_msg_info FOR ksbms_robot.ksbms_msg_info;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_populate_nbi_54a FOR pontis.f_populate_nbi_54a;

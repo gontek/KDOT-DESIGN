@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.fk_ds_change_log ON ksbms_robot.ds_lookup_keyvals(entry_id);

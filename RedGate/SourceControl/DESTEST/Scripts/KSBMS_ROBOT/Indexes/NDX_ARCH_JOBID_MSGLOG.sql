@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.ndx_arch_jobid_msglog ON ksbms_robot.ds_message_log(job_id);

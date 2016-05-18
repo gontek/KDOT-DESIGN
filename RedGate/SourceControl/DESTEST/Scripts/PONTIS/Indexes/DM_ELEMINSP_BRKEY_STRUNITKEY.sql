@@ -1,0 +1,1 @@
+CREATE INDEX pontis.dm_eleminsp_brkey_strunitkey ON pontis.dm_eleminsp(brkey,strunitkey);

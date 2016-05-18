@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.ndx_jobid_temp ON ksbms_robot.ds_change_log_temp(job_id);

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.flexrules_elemkey ON pontis.flexrules(elemkey);

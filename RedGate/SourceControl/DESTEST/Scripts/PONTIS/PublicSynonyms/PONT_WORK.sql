@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pont_work FOR pontis.pont_work;

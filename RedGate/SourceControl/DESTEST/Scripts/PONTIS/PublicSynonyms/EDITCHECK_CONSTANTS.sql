@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM editcheck_constants FOR pontis.editcheck_constants;

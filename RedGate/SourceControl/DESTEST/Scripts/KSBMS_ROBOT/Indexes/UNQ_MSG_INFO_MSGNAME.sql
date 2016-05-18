@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.unq_msg_info_msgname ON ksbms_robot.ksbms_msg_info("OWNER",appcode,msgname);

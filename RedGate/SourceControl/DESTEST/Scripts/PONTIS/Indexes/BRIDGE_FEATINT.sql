@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_featint ON pontis.bridge(featint);

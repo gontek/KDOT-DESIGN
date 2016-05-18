@@ -1,0 +1,20 @@
+CREATE OR REPLACE TRIGGER pontis.TAUR_USERBRDG_OWNER
+	AFTER UPDATE OF OWNER_KDOT ON pontis.USERBRDG
+	FOR EACH ROW
+	
+
+
+
+DECLARE	v_nbi_result_code BRIDGE.OWNER%TYPE;
+BEGIN
+
+-- Look up the NBI code for the KDOT field 
+v_nbi_result_code := get_nbicode_from_NBILookup( 'USERBRDG', 'OWNER_KDOT', :new.OWNER_KDOT );
+
+UPDATE BRIDGE
+	SET OWNER = V_NBI_RESULT_CODE
+	WHERE
+	BRIDGE.BRKEY = :OLD.BRKEY;
+
+END;
+/

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM projects FOR pontis.projects;

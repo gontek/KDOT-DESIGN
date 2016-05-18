@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.uidx_pon_elem_defs ON pontis.pon_elem_defs(elem_key,elem_nbe_stat,elem_protect_sys,elem_smart_flag);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nbi_final FOR pontis.nbi_final;

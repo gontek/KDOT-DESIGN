@@ -1,0 +1,1 @@
+CREATE INDEX pontis.matrix_a_y_weight ON pontis.dm_det_matrix_a(y_weight);

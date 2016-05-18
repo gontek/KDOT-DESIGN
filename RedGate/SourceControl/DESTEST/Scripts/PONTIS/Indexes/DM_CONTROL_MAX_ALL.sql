@@ -1,0 +1,1 @@
+CREATE INDEX pontis.dm_control_max_all ON pontis.dm_control(max_all);

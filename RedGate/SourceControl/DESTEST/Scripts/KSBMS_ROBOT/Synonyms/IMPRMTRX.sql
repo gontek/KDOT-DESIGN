@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.imprmtrx FOR pontis.imprmtrx;

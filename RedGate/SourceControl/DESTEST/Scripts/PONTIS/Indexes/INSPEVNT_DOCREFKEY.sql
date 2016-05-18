@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.inspevnt_docrefkey ON pontis.inspevnt(docrefkey);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ui_app_obj_map FOR pontis.ui_app_obj_map;

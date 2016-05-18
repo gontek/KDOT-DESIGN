@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM editcheck_nbi_layout FOR pontis.editcheck_nbi_layout;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.elemdefs_elemnum ON pontis.elemdefs(elemnum);

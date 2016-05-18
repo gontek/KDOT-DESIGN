@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ui_app_classes FOR pontis.ui_app_classes;

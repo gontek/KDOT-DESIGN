@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_elemvalue FOR pontis.v_elemvalue;

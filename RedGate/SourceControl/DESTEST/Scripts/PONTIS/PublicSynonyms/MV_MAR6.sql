@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_mar6 FOR pontis.mv_mar6;

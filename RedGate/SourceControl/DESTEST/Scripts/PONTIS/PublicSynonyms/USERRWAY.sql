@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM userrway FOR pontis.userrway;

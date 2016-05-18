@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.pk_mvstrspans ON pontis.mv_strspans(brkey,strunitkey);

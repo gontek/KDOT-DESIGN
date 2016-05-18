@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prj_witems FOR pontis.prj_witems;

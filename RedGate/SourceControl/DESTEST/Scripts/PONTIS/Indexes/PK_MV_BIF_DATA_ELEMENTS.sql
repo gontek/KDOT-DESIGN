@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.pk_mv_bif_data_elements ON pontis.mv_bif_data_elements(brkey,strunitkey,elem_key,envkey,elem_parent_key);

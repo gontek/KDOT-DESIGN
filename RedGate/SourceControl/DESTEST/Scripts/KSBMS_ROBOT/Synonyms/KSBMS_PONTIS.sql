@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.ksbms_pontis FOR pontis.ksbms_pontis;

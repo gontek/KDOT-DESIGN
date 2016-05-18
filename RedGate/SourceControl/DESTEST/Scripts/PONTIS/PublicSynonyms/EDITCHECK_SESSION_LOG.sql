@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM editcheck_session_log FOR pontis.editcheck_session_log;

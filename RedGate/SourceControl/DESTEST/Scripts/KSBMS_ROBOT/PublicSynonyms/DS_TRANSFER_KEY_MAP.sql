@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_transfer_key_map FOR ksbms_robot.ds_transfer_key_map;

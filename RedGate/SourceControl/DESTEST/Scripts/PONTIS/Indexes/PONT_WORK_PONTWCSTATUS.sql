@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_pontwcstatus ON pontis.pont_work(pontwcstatus);

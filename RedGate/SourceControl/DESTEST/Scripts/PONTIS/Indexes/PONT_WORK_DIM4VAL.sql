@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_dim4val ON pontis.pont_work(dim4val);

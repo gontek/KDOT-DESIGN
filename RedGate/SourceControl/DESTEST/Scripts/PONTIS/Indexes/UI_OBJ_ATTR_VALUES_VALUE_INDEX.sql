@@ -1,0 +1,1 @@
+CREATE INDEX pontis.ui_obj_attr_values_value_index ON pontis.ui_obj_attr_values(obj_inst_id,dw_attr_cls_name,dw_attr_seq);

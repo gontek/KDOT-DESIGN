@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM condadjload_report FOR pontis.condadjload_report;

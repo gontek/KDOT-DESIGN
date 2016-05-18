@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_app_users_groups FOR pontis.pon_app_users_groups;

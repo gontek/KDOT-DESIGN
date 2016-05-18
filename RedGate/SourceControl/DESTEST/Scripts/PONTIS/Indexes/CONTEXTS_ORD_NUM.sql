@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.contexts_ord_num ON pontis.pon_app_contexts(ord_num);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_kaws_structures_eng FOR pontis.v_kaws_structures_eng;

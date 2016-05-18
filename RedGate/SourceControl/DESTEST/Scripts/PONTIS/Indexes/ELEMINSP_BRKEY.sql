@@ -1,0 +1,1 @@
+CREATE INDEX pontis.eleminsp_brkey ON pontis.eleminsp(brkey);

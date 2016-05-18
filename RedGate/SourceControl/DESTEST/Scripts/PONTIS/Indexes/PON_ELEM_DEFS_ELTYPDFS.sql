@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pon_elem_defs_eltypdfs ON pontis.pon_elem_defs(elem_cat_key,elem_type_key);

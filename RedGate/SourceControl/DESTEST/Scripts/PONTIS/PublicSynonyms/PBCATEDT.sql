@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pbcatedt FOR pontis.pbcatedt;

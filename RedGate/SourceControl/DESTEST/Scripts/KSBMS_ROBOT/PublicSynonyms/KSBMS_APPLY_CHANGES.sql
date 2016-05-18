@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ksbms_apply_changes FOR ksbms_robot.ksbms_apply_changes;

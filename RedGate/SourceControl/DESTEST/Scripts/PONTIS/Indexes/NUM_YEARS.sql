@@ -1,0 +1,1 @@
+CREATE INDEX pontis.num_years ON pontis.dm_elem_obs_pairs(num_years);

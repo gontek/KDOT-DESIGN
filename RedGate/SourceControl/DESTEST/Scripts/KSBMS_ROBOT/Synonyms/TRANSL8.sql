@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.transl8 FOR pontis.transl8;

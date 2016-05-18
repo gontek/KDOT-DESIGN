@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM inspection_layout FOR pontis.inspection_layout;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_state_defs FOR pontis.pon_state_defs;

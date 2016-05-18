@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.xak1pon_nav_control_group ON pontis.pon_nav_control_group(tab_id,task_id,parent_control_group_id,order_num);

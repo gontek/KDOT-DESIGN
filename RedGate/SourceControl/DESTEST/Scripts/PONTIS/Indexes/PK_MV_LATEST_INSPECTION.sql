@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.pk_mv_latest_inspection ON pontis.mv_latest_inspection(brkey,inspkey);

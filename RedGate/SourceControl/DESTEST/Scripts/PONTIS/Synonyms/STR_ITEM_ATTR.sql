@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM pontis.str_item_attr FOR highways.str_item_attr@HIGHWAYS_DBLINK.INT.CAMSYS.COM;

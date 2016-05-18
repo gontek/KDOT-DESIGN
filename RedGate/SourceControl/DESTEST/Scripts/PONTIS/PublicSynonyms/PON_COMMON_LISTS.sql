@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_common_lists FOR pontis.pon_common_lists;

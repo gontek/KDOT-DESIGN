@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_maintenance_cost_totals FOR pontis.mv_maintenance_cost_totals;

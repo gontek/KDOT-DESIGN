@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.ndx_helpid ON ksbms_robot.ds_config_options(helpid);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_elem_insp FOR pontis.pon_elem_insp;

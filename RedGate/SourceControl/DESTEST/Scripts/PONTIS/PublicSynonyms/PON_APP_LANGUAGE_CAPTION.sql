@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_app_language_caption FOR pontis.pon_app_language_caption;

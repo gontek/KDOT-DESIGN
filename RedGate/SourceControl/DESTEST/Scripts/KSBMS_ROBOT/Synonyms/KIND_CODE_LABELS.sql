@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.kind_code_labels FOR pontis.kind_code_labels;

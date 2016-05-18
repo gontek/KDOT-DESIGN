@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.elcatdfs FOR pontis.elcatdfs;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v__scour_findings FOR pontis.v_scour_findings;

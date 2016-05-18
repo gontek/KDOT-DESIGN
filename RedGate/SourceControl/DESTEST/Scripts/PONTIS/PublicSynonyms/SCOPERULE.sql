@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scoperule FOR pontis.scoperule;

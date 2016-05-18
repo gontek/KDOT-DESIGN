@@ -1,0 +1,1 @@
+CREATE INDEX pontis.insp_wcand7keyindex ON pontis.insp_wcand(targetyear,brkey,strunitkey,objkind,objcode,actkind,actcode);

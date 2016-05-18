@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ksbms_util FOR ksbms_robot.ksbms_util;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_bif_capital_prj FOR pontis.mv_bif_capital_prj;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_ctrl_nbi_guide FOR pontis.pon_ctrl_nbi_guide;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM deb.inspevnt FOR pontis.inspevnt;

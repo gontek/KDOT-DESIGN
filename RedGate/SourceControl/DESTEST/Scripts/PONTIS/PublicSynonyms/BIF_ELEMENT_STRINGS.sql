@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM bif_element_strings FOR pontis.bif_element_strings;

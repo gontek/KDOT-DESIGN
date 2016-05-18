@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM deb.coptions FOR pontis.coptions;

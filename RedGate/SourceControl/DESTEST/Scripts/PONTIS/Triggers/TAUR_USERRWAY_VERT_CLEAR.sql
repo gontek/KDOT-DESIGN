@@ -1,0 +1,103 @@
+CREATE OR REPLACE TRIGGER pontis.TAUR_USERRWAY_VERT_CLEAR
+	AFTER UPDATE OF VCLR_E, VCLR_W, VCLR_N, VCLR_S,
+	VCLRINV_E, VCLRINV_W, VCLRINV_N, VCLRINV_S ON pontis.USERRWAY
+
+	FOR EACH ROW
+
+	
+
+
+
+
+DECLARE V_VCLRINV_NBI ROADWAY.VCLRINV%TYPE;
+		V_ON_UNDER ROADWAY.ON_UNDER%TYPE;
+		TEMPVCLR_N ROADWAY.VCLRINV%TYPE;
+		TEMPVCLR_E ROADWAY.VCLRINV%TYPE;
+		TEMPVCLR_S ROADWAY.VCLRINV%TYPE;
+		TEMPVCLR_W ROADWAY.VCLRINV%TYPE;
+
+BEGIN
+
+SELECT ON_UNDER INTO V_ON_UNDER FROM ROADWAY
+ WHERE
+  ROADWAY.BRKEY = :OLD.BRKEY
+   AND ROADWAY.ON_UNDER = :OLD.ON_UNDER;
+
+
+
+IF v_on_under <> '1' THEN
+  If (:NEW.VCLR_N IS NULL OR :NEW.VCLR_N <= 0 )then
+	TEMPVCLR_N := 99999;
+  else
+    	TEMPVCLR_N := :NEW.VCLR_N;
+  end if;
+
+  If (:NEW.VCLR_E IS NULL OR :NEW.VCLR_E <= 0 ) then
+  	TEMPVCLR_E := 99999;
+  else
+      	TEMPVCLR_E := :NEW.VCLR_E;
+  end if;
+
+  If (:NEW.VCLR_S IS NULL OR :NEW.VCLR_S <= 0 ) then
+  	TEMPVCLR_S := 99999;
+  else
+      	TEMPVCLR_S := :NEW.VCLR_S;
+  end if;
+
+  If (:NEW.VCLR_W IS NULL OR :NEW.VCLR_W <= 0 ) then
+ 	TEMPVCLR_W := 99999;
+  else
+    	TEMPVCLR_W := :NEW.VCLR_W;
+  end if;
+
+ELSE
+
+  If (:NEW.VCLRINV_N IS NULL OR :NEW.VCLRINV_N <= 0 )then
+	TEMPVCLR_N := 99999;
+  else
+    	TEMPVCLR_N := :NEW.VCLRINV_N;
+  end if;
+
+  If (:NEW.VCLRINV_E IS NULL OR :NEW.VCLRINV_E <= 0 ) then
+  	TEMPVCLR_E := 99999;
+  else
+      	TEMPVCLR_E := :NEW.VCLRINV_E;
+  end if;
+
+  If (:NEW.VCLRINV_S IS NULL OR :NEW.VCLRINV_S <= 0 ) then
+  	TEMPVCLR_S := 99999;
+  else
+      	TEMPVCLR_S := :NEW.VCLRINV_S;
+  end if;
+
+  If (:NEW.VCLRINV_W IS NULL OR :NEW.VCLRINV_W <= 0 ) then
+ 	TEMPVCLR_W := 99999;
+  else
+    	TEMPVCLR_W := :NEW.VCLRINV_W;
+  end if;
+END IF;
+
+
+  V_VCLRINV_NBI := least ( TEMPVCLR_N, TEMPVCLR_E, TEMPVCLR_S, TEMPVCLR_W);
+
+  If V_VCLRINV_NBI = 99999 then
+     V_VCLRINV_NBI := 0;
+  end if;
+
+-- Based on the NBI coding guide page 6, if no restriction exists or it is greater
+-- than or equal to 30, then code it 99.99
+
+  if V_VCLRINV_NBI >= 30 or V_VCLRINV_NBI =0 then
+     V_VCLRINV_NBI := 99.99;
+  end if;
+
+
+-- Now, Put This Vertical Clearance into the Pontis ROADWAY Table;
+UPDATE ROADWAY
+	SET VCLRINV = V_VCLRINV_NBI
+	WHERE
+	ROADWAY.BRKEY = :OLD.BRKEY
+      AND ROADWAY.ON_UNDER = :OLD.ON_UNDER;
+
+END TAUR_USERRWAY_VERT_CLEAR;
+/

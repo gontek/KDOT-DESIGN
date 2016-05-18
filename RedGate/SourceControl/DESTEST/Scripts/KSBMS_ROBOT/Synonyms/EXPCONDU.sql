@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.expcondu FOR pontis.expcondu;

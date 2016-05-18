@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_ctrl_elements_prn FOR pontis.pon_ctrl_elements_prn;

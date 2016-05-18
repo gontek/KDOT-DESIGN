@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pon_filters_accessfilter ON pontis.pon_filters(accessfilter);

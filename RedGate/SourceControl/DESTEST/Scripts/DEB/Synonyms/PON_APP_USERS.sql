@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM deb.pon_app_users FOR pontis.pon_app_users;

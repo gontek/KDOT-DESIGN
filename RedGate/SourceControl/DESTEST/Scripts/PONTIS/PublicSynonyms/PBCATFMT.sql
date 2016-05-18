@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pbcatfmt FOR pontis.pbcatfmt;

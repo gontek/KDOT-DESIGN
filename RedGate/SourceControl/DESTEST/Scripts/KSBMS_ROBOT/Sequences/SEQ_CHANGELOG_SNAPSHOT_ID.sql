@@ -1,0 +1,1 @@
+CREATE SEQUENCE ksbms_robot.seq_changelog_snapshot_id MAXVALUE 9999999999 CYCLE CACHE 5;

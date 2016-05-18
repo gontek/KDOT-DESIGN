@@ -1,0 +1,1 @@
+CREATE INDEX pontis.eleminsp_elinspdate ON pontis.eleminsp(elinspdate);

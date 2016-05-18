@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.roadway FOR pontis.roadway;

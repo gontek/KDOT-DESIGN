@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM scenario FOR pontis.scenario;

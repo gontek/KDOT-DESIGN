@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nbi_tbl_placecode FOR pontis.nbi_tbl_placecode;

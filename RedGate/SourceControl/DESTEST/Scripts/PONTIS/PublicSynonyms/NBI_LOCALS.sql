@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM nbi_locals FOR pontis.nbi_locals;

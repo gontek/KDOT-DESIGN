@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM expcondu FOR pontis.expcondu;

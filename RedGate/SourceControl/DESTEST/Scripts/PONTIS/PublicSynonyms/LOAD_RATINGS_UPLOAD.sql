@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM load_ratings_upload FOR pontis.load_ratings_upload;

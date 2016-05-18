@@ -1,0 +1,22 @@
+CREATE TABLE pontis.temp_agencypolrule (
+  agcypolsetkey VARCHAR2(2 BYTE) NOT NULL,
+  agcypolrulekey VARCHAR2(2 BYTE) NOT NULL,
+  "PRIORITY" NUMBER(2),
+  ifobjkind CHAR,
+  ifobjcode VARCHAR2(10 BYTE),
+  threshold_state CHAR,
+  threshold_pct NUMBER(3),
+  thobjkind CHAR,
+  thobjcode VARCHAR2(10 BYTE),
+  thactkind1 CHAR,
+  thactcode1 VARCHAR2(2 BYTE),
+  thactkind2 CHAR,
+  thactcode2 VARCHAR2(2 BYTE),
+  thactkind3 CHAR,
+  thactcode3 VARCHAR2(2 BYTE),
+  thactkind4 CHAR,
+  thactcode4 VARCHAR2(2 BYTE),
+  thactkind5 CHAR,
+  thactcode5 VARCHAR2(2 BYTE),
+  description VARCHAR2(255 BYTE)
+);

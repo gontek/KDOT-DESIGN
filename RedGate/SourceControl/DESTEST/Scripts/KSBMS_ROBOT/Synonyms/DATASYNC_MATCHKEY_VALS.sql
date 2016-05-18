@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.datasync_matchkey_vals FOR pontis.datasync_matchkey_vals;

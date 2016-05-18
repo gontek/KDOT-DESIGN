@@ -1,0 +1,5 @@
+CREATE TABLE pontis.pon_app_contexts (
+  "CONTEXT" VARCHAR2(32 BYTE) NOT NULL,
+  ord_num NUMBER(38),
+  CONSTRAINT pon_app_contexts_pk PRIMARY KEY ("CONTEXT") DISABLE NOVALIDATE
+);

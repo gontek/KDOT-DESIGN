@@ -1,0 +1,1 @@
+CREATE INDEX pontis.ui_obj_attr_values_app_locale ON pontis.ui_obj_attr_values(app_locale_id);

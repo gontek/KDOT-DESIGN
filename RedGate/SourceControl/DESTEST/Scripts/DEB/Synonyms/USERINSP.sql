@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM deb.userinsp FOR pontis.userinsp;

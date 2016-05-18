@@ -1,0 +1,1 @@
+CREATE INDEX pontis.elemdefs_parent ON pontis.elemdefs("PARENT");

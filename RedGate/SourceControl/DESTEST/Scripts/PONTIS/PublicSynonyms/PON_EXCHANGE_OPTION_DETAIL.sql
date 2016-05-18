@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_exchange_option_detail FOR pontis.pon_exchange_option_detail;

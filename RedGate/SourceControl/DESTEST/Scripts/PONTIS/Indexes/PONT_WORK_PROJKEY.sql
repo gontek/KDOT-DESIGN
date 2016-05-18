@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_projkey ON pontis.pont_work(projkey);

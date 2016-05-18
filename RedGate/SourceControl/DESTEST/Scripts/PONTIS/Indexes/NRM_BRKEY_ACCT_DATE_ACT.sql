@@ -1,0 +1,1 @@
+CREATE INDEX pontis.nrm_brkey_acct_date_act ON pontis.v_bif_maint_prj(brkey,acct_date,activity_num);

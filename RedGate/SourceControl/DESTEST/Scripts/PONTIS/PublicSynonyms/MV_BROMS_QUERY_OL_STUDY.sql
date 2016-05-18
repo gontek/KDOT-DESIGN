@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_broms_query_ol_study FOR pontis.mv_broms_query_ol_study;

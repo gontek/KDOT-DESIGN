@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.parms_upper_tabfld ON pontis.paramtrs(UPPER("TABLE_NAME"),UPPER("FIELD_NAME"),parmvalue);

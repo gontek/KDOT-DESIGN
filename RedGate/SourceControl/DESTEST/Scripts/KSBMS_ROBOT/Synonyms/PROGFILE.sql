@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.progfile FOR pontis.progfile;

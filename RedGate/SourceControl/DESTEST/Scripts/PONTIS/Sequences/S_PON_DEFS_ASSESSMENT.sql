@@ -1,0 +1,1 @@
+CREATE SEQUENCE pontis.s_pon_defs_assessment NOCACHE;

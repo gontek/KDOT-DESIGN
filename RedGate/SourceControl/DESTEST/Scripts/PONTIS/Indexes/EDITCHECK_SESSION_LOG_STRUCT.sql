@@ -1,0 +1,1 @@
+CREATE INDEX pontis.editcheck_session_log_struct ON pontis.editcheck_session_log(struct_num);

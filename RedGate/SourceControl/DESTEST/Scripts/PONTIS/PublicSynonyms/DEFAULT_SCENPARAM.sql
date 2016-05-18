@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM default_scenparam FOR pontis.default_scenparam;

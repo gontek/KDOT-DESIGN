@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_cansys_bridges FOR pontis.mv_cansys_bridges;

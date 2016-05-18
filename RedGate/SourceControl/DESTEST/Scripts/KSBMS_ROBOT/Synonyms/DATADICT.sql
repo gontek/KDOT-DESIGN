@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.datadict FOR pontis.datadict;

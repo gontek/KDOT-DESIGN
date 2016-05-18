@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.str_item_attr FOR highways.str_item_attr@KSBMS_HWYS_LINK.INT.CAMSYS.COM;

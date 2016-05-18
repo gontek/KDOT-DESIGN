@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM healthindex_dup_insp FOR pontis.healthindex_dup_insp;

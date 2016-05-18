@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.insp_wcand FOR pontis.insp_wcand;

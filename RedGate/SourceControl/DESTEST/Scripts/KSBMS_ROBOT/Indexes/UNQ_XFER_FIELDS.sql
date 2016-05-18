@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.unq_xfer_fields ON ksbms_robot.ds_transfer_key_map(transfer_key_map_id,table_name,column_name,sit_id,sat_id);

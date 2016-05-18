@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM metric_english FOR pontis.metric_english;

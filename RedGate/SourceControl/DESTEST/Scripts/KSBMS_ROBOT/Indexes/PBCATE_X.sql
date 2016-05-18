@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.pbcate_x ON ksbms_robot.pbcatedt(pbe_name,pbe_seqn);

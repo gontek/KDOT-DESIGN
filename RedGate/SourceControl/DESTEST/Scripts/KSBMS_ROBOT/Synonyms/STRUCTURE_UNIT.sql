@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.structure_unit FOR pontis.structure_unit;

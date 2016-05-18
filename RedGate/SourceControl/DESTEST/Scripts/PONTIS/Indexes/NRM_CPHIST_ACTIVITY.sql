@@ -1,0 +1,1 @@
+CREATE INDEX pontis.nrm_cphist_activity ON pontis.v_bif_capital_prj_history(brkey,prjctid,actvtyid);

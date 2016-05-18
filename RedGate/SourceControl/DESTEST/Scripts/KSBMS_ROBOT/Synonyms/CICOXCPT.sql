@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.cicoxcpt FOR pontis.cicoxcpt;

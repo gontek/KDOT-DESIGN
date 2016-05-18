@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM insp_filters FOR pontis.insp_filters;

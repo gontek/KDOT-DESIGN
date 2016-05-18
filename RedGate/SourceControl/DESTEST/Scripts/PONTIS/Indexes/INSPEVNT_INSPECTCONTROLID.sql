@@ -1,0 +1,1 @@
+CREATE INDEX pontis.inspevnt_inspectcontrolid ON pontis.inspevnt(inspectcontrolid);

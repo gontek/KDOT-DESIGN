@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_report_register FOR pontis.pon_report_register;

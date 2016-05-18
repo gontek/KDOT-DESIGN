@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pbcattbl FOR pontis.pbcattbl;

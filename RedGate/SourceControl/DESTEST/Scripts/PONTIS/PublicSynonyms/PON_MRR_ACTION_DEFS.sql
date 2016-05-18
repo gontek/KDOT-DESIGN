@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_mrr_action_defs FOR pontis.pon_mrr_action_defs;

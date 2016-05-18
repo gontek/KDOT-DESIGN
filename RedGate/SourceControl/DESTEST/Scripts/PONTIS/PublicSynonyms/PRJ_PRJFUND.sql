@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM prj_prjfund FOR pontis.prj_prjfund;

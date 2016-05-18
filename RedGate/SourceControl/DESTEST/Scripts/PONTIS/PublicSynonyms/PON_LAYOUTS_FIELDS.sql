@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM pon_layouts_fields FOR pontis.pon_layouts_fields;

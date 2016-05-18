@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.pfuser_pref FOR pontis.pfuser_pref;

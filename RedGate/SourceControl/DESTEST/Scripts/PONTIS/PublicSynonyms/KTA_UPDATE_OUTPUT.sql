@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM kta_update_output FOR pontis.kta_update_output;

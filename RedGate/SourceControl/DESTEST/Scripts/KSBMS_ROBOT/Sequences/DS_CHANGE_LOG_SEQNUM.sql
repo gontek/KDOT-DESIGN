@@ -1,0 +1,1 @@
+CREATE SEQUENCE ksbms_robot.ds_change_log_seqnum;

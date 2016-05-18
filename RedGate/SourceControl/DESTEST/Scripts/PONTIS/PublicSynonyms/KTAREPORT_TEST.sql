@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ktareport_test FOR pontis.ktareport_test;

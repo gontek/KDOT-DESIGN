@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.datasync_exchange_rules FOR pontis.datasync_exchange_rules;

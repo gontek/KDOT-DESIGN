@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_dim3val ON pontis.bridge(on_off_sys);

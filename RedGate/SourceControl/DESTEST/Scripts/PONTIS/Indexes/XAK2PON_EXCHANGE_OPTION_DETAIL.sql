@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.xak2pon_exchange_option_detail ON pontis.pon_exchange_option_detail(exchange_option_id,table_name);

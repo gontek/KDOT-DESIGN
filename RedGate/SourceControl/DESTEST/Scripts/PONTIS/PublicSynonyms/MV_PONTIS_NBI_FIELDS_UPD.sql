@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_pontis_nbi_fields_upd FOR pontis.mv_pontis_nbi_fields_upd;

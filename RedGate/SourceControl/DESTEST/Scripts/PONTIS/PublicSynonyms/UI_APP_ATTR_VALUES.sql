@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ui_app_attr_values FOR pontis.ui_app_attr_values;

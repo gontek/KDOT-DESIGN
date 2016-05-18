@@ -1,0 +1,10 @@
+GRANT SELECT ON ksbms_robot.ds_change_log TO pontisuser;
+GRANT INSERT ON ksbms_robot.ds_change_log TO pontisuser;
+GRANT UPDATE ON ksbms_robot.ds_change_log TO pontisuser;
+GRANT DELETE ON ksbms_robot.ds_change_log TO pontisuser;
+GRANT ALTER ON ksbms_robot.ds_change_log TO pontisuser;
+GRANT EXECUTE ON ksbms_robot.ksbms_err TO pontisuser;
+GRANT EXECUTE ON ksbms_robot.ksbms_exc TO pontisuser;
+GRANT EXECUTE ON ksbms_robot.ksbms_fileio TO pontisuser;
+GRANT EXECUTE ON ksbms_robot.ksbms_fw TO pontisuser;
+GRANT EXECUTE ON ksbms_robot.ksbms_util TO pontisuser;

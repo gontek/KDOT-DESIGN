@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM smartflags_hi FOR pontis.smartflags_hi;

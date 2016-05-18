@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.ndx_ora_dbms_job_id ON ksbms_robot.ds_jobruns_history(ora_dbms_job_id);

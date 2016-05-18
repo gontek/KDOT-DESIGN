@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.costsets FOR pontis.costsets;

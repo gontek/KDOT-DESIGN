@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_genflagpu ON pontis.pont_work(genflagpu);

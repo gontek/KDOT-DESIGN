@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.flexsets FOR pontis.flexsets;

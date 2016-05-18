@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.bridge FOR pontis.bridge;

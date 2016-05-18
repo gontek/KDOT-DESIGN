@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX ksbms_robot.pbcatc_x ON ksbms_robot.pbcatcol(pbc_tnam,pbc_ownr,pbc_cnam);

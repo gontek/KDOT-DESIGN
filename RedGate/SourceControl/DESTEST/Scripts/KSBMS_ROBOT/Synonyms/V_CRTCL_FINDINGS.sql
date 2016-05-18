@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM ksbms_robot.v_crtcl_findings FOR pontis.v_crtcl_findings;

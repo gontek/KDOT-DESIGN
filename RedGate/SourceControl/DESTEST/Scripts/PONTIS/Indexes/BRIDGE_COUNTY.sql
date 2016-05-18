@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_county ON pontis.bridge(county);

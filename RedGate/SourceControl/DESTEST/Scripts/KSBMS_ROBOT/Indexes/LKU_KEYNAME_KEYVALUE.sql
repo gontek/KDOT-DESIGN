@@ -1,0 +1,1 @@
+CREATE INDEX ksbms_robot.lku_keyname_keyvalue ON ksbms_robot.ds_lookup_keyvals(keyname,keyvalue);

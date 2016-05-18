@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM healthindex_upd_errors FOR pontis.healthindex_upd_errors;

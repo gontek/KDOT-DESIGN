@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tbl_vert_clr_test FOR pontis.tbl_vert_clr_test;
