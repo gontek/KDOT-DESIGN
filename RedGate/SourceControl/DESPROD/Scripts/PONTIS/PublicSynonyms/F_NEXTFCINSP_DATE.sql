@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_nextfcinsp_date FOR pontis.f_nextfcinsp_date;

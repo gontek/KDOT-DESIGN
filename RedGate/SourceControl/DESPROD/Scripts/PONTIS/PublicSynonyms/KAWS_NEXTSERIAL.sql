@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM kaws_nextserial FOR pontis.kaws_nextserial;

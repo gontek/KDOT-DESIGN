@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_crtcl_findings FOR pontis.v_crtcl_findings;

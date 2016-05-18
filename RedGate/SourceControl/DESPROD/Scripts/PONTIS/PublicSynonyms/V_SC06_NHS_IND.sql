@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_sc06_nhs_ind FOR pontis.v_sc06_nhs_ind;

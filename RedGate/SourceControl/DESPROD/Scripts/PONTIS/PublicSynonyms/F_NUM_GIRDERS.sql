@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_num_girders FOR pontis.f_num_girders;

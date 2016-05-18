@@ -1,0 +1,1 @@
+CREATE INDEX pontis.dm_eleminsp_inspkey ON pontis.dm_eleminsp(inspkey);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_active_structure_count FOR pontis.v_active_structure_count;

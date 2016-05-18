@@ -1,0 +1,1 @@
+CREATE INDEX pontis.inspevnt_brkey ON pontis.inspevnt(brkey);

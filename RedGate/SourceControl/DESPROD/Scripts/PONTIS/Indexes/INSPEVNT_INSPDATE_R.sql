@@ -1,0 +1,1 @@
+CREATE INDEX pontis.inspevnt_inspdate_r ON pontis.inspevnt(inspdate);

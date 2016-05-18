@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM kaws_photos FOR pontis.kaws_photos;

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.ndx_cicocntl_userkey_ioflag ON pontis.cicocntl(userkey,ioflag);

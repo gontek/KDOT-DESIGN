@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_expan_dev FOR pontis.v_expan_dev;

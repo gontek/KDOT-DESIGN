@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_broms_proj FOR pontis.f_broms_proj;

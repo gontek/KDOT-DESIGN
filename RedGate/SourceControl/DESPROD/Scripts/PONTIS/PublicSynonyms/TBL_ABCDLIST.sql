@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tbl_abcdlist FOR pontis.tbl_abcdlist;

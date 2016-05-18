@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_act_prob_experts FOR pontis.dm_act_prob_experts;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM insp_wcand FOR pontis.insp_wcand;

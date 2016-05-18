@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.app_users_userid ON pontis.pon_app_users(userid);

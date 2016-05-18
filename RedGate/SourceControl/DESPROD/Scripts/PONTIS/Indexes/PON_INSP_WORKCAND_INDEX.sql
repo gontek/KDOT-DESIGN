@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pon_insp_workcand_index ON pontis.pon_insp_workcand(iwc_target_year,brkey,strunitkey);

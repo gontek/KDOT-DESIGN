@@ -1,0 +1,1 @@
+CREATE INDEX pontis.cond_state_pairs_num_years ON pontis.dm_cond_state_pairs(num_years);

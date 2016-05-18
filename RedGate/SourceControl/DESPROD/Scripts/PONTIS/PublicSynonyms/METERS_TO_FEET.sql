@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM meters_to_feet FOR pontis.meters_to_feet;

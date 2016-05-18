@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM angies_list FOR pontis.angies_list;

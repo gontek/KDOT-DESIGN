@@ -1,0 +1,1 @@
+CREATE INDEX pontis.dm_matrix_a_modelupdate ON pontis.dm_det_matrix_a(elemkey,envkey,num_years,skey_i);

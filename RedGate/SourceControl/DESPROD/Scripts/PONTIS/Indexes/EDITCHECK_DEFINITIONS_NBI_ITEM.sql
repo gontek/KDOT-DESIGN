@@ -1,0 +1,1 @@
+CREATE INDEX pontis.editcheck_definitions_nbi_item ON pontis.editcheck_definitions(nbi_item);

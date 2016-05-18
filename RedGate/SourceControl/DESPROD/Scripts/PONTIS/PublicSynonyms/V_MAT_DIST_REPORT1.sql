@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_mat_dist_report1 FOR pontis.v_mat_dist_report1;

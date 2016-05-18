@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM statedfs FOR pontis.statedfs;

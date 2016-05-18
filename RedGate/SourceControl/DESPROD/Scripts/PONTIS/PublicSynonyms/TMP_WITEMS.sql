@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tmp_witems FOR pontis.tmp_witems;

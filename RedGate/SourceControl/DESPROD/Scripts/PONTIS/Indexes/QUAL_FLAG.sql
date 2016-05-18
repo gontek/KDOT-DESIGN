@@ -1,0 +1,1 @@
+CREATE INDEX pontis.qual_flag ON pontis.dm_elem_obs_pairs(qual_flag);

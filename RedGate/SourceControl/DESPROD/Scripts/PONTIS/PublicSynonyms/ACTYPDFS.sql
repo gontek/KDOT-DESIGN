@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM actypdfs FOR pontis.actypdfs;

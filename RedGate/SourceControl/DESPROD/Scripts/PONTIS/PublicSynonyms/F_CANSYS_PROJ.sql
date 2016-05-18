@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_cansys_proj FOR pontis.f_cansys_proj;

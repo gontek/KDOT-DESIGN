@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_inspectors_counts FOR pontis.f_get_inspectors_counts;

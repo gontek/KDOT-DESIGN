@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_eleminsp FOR pontis.dm_eleminsp;

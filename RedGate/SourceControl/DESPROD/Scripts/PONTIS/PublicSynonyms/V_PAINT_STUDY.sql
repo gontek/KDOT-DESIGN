@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_paint_study FOR pontis.v_paint_study;

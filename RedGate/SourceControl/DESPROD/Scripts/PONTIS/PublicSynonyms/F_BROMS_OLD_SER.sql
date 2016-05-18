@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_broms_old_ser FOR pontis.f_broms_old_ser;

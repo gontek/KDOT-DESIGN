@@ -1,0 +1,1 @@
+CREATE INDEX pontis.dm_control_mx_inv_flag ON pontis.dm_control(mx_inversion_flag);

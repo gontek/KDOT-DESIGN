@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_pin_hanger_structures_sp10 FOR pontis.v_pin_hanger_structures_sp10;

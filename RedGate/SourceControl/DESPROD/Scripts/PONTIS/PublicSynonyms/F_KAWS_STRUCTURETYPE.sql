@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_kaws_structuretype FOR pontis.f_kaws_structuretype;

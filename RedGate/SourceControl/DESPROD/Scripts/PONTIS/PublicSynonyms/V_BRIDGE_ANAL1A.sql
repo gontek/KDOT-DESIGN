@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_bridge_anal1a FOR pontis.v_bridge_anal1a;

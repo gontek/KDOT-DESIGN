@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_jurisdiction_rpt_sum FOR pontis.mv_jurisdiction_rpt_sum;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_structurelog_units FOR pontis.v_structurelog_units;

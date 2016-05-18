@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_tab_to_string FOR pontis.f_tab_to_string;

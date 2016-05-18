@@ -1,0 +1,1 @@
+CREATE INDEX pontis.prj_witems_projkey ON pontis.prj_witems(projkey);

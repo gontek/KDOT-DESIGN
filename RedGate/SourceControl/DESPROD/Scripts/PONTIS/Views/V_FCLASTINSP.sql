@@ -1,0 +1,3 @@
+CREATE OR REPLACE FORCE VIEW pontis.v_fclastinsp (brkey,inspdate) AS
+(select brkey, inspdate  from inspevnt i1  where fcinspdone = '1' and        to_char(inspdate, 'yyyy') > '1901'  UNION  select brkey, fclastinsp  from inspevnt i2  where to_char(fclastinsp, 'yyyy') > '1901' and        fclastinsp not in (select inspdate from inspevnt i3        where i3.fcinspdone = '1' and i3.brkey = i2.brkey) and        fclastinsp is not null)
+ ;

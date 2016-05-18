@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM structure_unit FOR pontis.structure_unit;

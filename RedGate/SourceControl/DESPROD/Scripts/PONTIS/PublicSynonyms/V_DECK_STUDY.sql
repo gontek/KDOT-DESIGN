@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_deck_study FOR pontis.v_deck_study;

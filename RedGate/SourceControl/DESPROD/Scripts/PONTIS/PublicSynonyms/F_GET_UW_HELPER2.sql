@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_uw_helper2 FOR pontis.f_get_uw_helper2;

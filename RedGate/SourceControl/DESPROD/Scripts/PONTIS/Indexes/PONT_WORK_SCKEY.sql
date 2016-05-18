@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_sckey ON pontis.pont_work(sckey);

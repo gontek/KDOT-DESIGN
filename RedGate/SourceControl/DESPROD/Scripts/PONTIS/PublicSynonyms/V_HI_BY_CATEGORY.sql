@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_hi_by_category FOR pontis.v_hi_by_category;

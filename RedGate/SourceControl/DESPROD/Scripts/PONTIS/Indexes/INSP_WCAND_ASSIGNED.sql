@@ -1,0 +1,1 @@
+CREATE INDEX pontis.insp_wcand_assigned ON pontis.insp_wcand(assigned);

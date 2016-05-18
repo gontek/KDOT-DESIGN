@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_device_count FOR pontis.f_device_count;

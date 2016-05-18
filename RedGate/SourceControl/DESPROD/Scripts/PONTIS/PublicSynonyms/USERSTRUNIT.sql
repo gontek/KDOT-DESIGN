@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM userstrunit FOR pontis.userstrunit;

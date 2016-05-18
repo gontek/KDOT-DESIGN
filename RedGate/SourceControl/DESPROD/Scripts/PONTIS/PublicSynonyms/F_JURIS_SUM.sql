@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_juris_sum FOR pontis.f_juris_sum;

@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.pbcate_x ON pontis.pbcatedt(pbe_name,pbe_seqn);

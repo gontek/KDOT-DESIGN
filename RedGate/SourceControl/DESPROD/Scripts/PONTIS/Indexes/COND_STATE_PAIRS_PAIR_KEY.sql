@@ -1,0 +1,1 @@
+CREATE INDEX pontis.cond_state_pairs_pair_key ON pontis.dm_cond_state_pairs(pair_key);

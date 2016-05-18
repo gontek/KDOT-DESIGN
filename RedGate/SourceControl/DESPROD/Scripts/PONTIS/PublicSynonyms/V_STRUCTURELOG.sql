@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_structurelog FOR pontis.v_structurelog;

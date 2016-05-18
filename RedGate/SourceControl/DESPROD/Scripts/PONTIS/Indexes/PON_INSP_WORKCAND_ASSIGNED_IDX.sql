@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pon_insp_workcand_assigned_idx ON pontis.pon_insp_workcand(iwc_work_assigned);

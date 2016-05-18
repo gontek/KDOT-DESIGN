@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_nbi_64_66 FOR pontis.f_get_nbi_64_66;

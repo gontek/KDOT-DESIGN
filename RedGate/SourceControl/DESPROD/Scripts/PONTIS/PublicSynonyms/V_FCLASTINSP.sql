@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_fclastinsp FOR pontis.v_fclastinsp;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_active_all_structures FOR pontis.v_active_all_structures;

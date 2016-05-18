@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM editcheck_value_sets FOR pontis.editcheck_value_sets;

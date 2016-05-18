@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ksbms_pontis_util FOR pontis.ksbms_pontis_util;

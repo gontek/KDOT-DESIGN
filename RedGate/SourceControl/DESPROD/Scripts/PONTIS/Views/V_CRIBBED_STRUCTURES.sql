@@ -1,0 +1,10 @@
+CREATE OR REPLACE FORCE VIEW pontis.v_cribbed_structures (brkey,yesno) AS
+SELECT DISTINCT BRKEY,'Y' as yesno
+FROM pontis.USERSTRUNIT
+where	(  USERSTRUNIT.CRIT_NOTE_SUP_1 IN ('8','11','17') or
+			   USERSTRUNIT.CRIT_NOTE_SUP_2 IN ('8','11','17') or
+				USERSTRUNIT.CRIT_NOTE_SUP_3 IN ('8','11','17') or
+				USERSTRUNIT.CRIT_NOTE_SUP_4 IN ('8','11','17') or
+				USERSTRUNIT.CRIT_NOTE_SUP_5 IN ('8','11','17') )
+
+ ;

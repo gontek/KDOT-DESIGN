@@ -1,0 +1,1 @@
+CREATE INDEX pontis.expcnduc_elemdefs ON pontis.expcnduc(elemkey);

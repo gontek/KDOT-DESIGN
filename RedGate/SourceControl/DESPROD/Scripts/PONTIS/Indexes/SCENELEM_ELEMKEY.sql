@@ -1,0 +1,1 @@
+CREATE INDEX pontis.scenelem_elemkey ON pontis.scenelem(elemkey);

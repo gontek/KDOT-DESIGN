@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_owner ON pontis.bridge("OWNER");

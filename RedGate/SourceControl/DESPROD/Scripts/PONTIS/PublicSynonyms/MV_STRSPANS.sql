@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_strspans FOR pontis.mv_strspans;

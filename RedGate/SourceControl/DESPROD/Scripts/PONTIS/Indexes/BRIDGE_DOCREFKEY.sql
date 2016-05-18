@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.bridge_docrefkey ON pontis.bridge(docrefkey);

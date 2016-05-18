@@ -1,0 +1,1 @@
+CREATE INDEX pontis.condumdl_envkey ON pontis.condumdl(envkey);

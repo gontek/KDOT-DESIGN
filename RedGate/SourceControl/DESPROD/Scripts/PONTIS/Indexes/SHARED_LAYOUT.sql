@@ -1,0 +1,1 @@
+CREATE INDEX pontis.shared_layout ON pontis.pon_layouts("SHARED");

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_strtypelist FOR pontis.f_strtypelist;

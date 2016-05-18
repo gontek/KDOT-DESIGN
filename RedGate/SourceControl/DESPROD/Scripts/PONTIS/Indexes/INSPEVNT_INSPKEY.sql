@@ -1,0 +1,1 @@
+CREATE INDEX pontis.inspevnt_inspkey ON pontis.inspevnt(inspkey);

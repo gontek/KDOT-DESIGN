@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pon_elem_insp_strunitkey ON pontis.pon_elem_insp(strunitkey);

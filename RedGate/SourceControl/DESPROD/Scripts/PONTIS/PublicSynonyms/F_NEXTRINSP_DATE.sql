@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_nextrinsp_date FOR pontis.f_nextrinsp_date;

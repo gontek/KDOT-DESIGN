@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_map_data FOR pontis.mv_map_data;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tblmilepost FOR pontis.tblmilepost;

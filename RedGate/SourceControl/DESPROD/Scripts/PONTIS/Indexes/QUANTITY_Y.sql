@@ -1,0 +1,1 @@
+CREATE INDEX pontis.quantity_y ON pontis.dm_elem_obs_pairs(quantity_y);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ui_obj_attr_classes FOR pontis.ui_obj_attr_classes;

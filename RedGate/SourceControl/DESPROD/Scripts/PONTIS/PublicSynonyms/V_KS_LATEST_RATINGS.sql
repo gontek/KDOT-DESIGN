@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_ks_latest_ratings FOR pontis.v_ks_latest_ratings;

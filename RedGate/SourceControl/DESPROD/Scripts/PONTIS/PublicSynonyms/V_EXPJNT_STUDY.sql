@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_expjnt_study FOR pontis.v_expjnt_study;

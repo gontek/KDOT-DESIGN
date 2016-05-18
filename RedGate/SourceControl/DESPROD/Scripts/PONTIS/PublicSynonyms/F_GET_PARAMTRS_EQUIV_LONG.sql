@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_paramtrs_equiv_long FOR pontis.f_get_paramtrs_equiv_long;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_number_of_units FOR pontis.f_number_of_units;

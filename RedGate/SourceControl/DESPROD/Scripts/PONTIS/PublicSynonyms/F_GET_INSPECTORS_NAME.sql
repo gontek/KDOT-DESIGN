@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_inspectors_name FOR pontis.f_get_inspectors_name;

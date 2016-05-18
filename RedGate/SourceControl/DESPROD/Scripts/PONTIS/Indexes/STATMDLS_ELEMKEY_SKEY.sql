@@ -1,0 +1,1 @@
+CREATE INDEX pontis.statmdls_elemkey_skey ON pontis.statmdls(elemkey,skey);

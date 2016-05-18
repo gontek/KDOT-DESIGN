@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.session_key ON pontis.pon_session(pon_session_key,userkey,db_session,started_on,ended_on);

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_bridgegroup ON pontis.bridge(bridgegroup);

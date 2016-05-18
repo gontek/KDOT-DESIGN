@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM tbl_vcmsstructurelist FOR pontis.tbl_vcmsstructurelist;

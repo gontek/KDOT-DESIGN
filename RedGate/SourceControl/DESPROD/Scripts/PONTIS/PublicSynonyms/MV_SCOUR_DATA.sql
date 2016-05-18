@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_scour_data FOR pontis.mv_scour_data;

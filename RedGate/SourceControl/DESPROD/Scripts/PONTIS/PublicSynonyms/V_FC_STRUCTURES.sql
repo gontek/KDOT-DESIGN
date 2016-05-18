@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_fc_structures FOR pontis.v_fc_structures;

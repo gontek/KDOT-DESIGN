@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX pontis.ui_obj_classes_obj_class_name ON pontis.ui_obj_classes(obj_class_name);

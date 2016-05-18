@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_scour_structures FOR pontis.v_scour_structures;

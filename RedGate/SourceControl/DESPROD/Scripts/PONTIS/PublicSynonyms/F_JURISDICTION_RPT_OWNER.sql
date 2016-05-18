@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_jurisdiction_rpt_owner FOR pontis.jurisdiction_rpt_owner;

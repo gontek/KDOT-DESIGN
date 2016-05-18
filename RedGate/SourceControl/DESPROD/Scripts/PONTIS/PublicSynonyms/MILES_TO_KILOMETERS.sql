@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM miles_to_kilometers FOR pontis.miles_to_kilometers;

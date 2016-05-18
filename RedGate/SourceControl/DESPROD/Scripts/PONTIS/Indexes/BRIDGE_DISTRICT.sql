@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_district ON pontis.bridge(district);

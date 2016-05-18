@@ -1,0 +1,1 @@
+CREATE INDEX pontis.dm_eleminsp_modelupdate ON pontis.dm_eleminsp(brkey,strunitkey,elemkey,envkey,elinspdate,inspkey);

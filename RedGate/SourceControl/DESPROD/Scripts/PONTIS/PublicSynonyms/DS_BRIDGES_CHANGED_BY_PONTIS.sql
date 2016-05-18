@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM ds_bridges_changed_by_pontis FOR pontis.ds_bridges_changed_by_pontis;

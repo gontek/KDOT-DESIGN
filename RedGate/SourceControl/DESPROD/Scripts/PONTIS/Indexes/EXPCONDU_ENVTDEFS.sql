@@ -1,0 +1,1 @@
+CREATE INDEX pontis.expcondu_envtdefs ON pontis.expcondu(envkey);

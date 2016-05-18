@@ -1,0 +1,3 @@
+CREATE OR REPLACE FORCE VIEW pontis.v_snooplastinsp (brkey,inspdate) AS
+(select i1.brkey, i1.inspdate  from inspevnt i1, userinsp i2  where i2.snoop_insp_done = '1' and        i1.brkey = i2.brkey and        i1.inspkey = i2.inspkey and        to_char(inspdate, 'yyyy') > '1901'        UNION  select brkey, snoop_last_insp  from userinsp i3  where to_char(snoop_last_insp, 'yyyy') > '1901' and        snoop_last_insp not in (select i4.inspdate from inspevnt i4, userinsp i5        where i5.snoop_insp_done = '1' and               i4.brkey = i3.brkey and              i5.brkey = i4.brkey and              i5.inspkey = i4.inspkey) and        snoop_last_insp is not null)
+ ;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_det_prob_new_model FOR pontis.dm_det_prob_new_model;

@@ -1,0 +1,1 @@
+CREATE INDEX pontis.ix_brkey ON pontis.mv_maintenance_costs(brkey);

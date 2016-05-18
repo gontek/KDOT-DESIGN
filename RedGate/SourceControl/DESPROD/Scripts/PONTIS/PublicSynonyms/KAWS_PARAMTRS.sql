@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM kaws_paramtrs FOR pontis.kaws_paramtrs;

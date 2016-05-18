@@ -1,0 +1,19 @@
+CREATE OR REPLACE FUNCTION pontis.IsInteger (theNumber IN VARCHAR2) RETURN NUMBER AS
+    V_INT      INTEGER;
+    V_NUM      NUMBER;
+    V_CHAR     VARCHAR2(30);
+BEGIN
+    V_INT := TO_NUMBER(LTRIM(theNumber, ' 0'));
+    V_NUM := TO_NUMBER(LTRIM(theNumber, ' 0'));
+    V_CHAR := LTRIM(THENUMBER, ' 0');
+    IF V_INT = V_NUM AND V_CHAR = TO_CHAR(V_INT) THEN
+        RETURN 1;
+    ELSE
+        RETURN 0;
+    END IF;
+    RETURN 0;
+    EXCEPTION
+    WHEN OTHERS THEN
+        RETURN 0;
+END;
+/

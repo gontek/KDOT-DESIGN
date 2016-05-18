@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM lkahdrule FOR pontis.lkahdrule;

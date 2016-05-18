@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_field_check_apprs FOR pontis.f_field_check_apprs;

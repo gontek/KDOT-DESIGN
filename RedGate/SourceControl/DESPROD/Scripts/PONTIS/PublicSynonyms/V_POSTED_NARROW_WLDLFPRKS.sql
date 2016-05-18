@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_posted_narrow_wldlfprks FOR pontis.v_posted_narrow_wldlfprks;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_ks_sw_scourcrit_detail FOR pontis.v_ks_sw_scourcrit_detail;

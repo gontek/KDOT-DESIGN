@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_crit_notations FOR pontis.v_crit_notations;

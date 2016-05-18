@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM mv_latest_inspection FOR pontis.mv_latest_inspection;

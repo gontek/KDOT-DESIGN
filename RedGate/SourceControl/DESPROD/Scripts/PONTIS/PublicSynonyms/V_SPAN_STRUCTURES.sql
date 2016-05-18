@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_span_structures FOR pontis.v_span_structures;

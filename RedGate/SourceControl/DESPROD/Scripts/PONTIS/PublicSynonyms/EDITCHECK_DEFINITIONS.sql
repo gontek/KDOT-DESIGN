@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM editcheck_definitions FOR pontis.editcheck_definitions;

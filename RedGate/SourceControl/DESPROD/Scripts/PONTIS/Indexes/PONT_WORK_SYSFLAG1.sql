@@ -1,0 +1,1 @@
+CREATE INDEX pontis.pont_work_sysflag1 ON pontis.pont_work(sysflag1);

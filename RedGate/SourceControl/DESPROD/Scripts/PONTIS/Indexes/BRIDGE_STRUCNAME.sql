@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_strucname ON pontis.bridge(strucname);

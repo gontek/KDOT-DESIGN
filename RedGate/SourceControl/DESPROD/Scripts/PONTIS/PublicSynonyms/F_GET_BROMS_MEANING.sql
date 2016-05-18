@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_broms_meaning FOR pontis.f_get_broms_meaning;

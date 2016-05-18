@@ -1,0 +1,1 @@
+CREATE INDEX pontis.ui_app_obj_map_app_id ON pontis.ui_app_obj_map(app_id);

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM dm_det_prob_history FOR pontis.dm_det_prob_history;

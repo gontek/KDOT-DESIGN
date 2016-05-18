@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_get_structuretype_widen FOR pontis.f_get_structuretype_widen;

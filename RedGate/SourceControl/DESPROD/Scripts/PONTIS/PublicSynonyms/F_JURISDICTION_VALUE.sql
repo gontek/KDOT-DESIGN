@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_jurisdiction_value FOR pontis.f_jurisdiction_value;

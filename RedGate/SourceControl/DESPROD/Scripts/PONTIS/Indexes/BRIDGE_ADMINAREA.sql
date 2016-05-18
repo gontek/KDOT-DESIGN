@@ -1,0 +1,1 @@
+CREATE INDEX pontis.bridge_adminarea ON pontis.bridge(adminarea);

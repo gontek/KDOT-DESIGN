@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_multiple_unit FOR pontis.f_multiple_unit;

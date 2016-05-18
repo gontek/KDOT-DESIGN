@@ -1,0 +1,1 @@
+CREATE INDEX pontis.eleminsp_elemkey ON pontis.eleminsp(elemkey);

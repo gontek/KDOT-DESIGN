@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM v_nlw_41 FOR pontis.v_nlw_41;

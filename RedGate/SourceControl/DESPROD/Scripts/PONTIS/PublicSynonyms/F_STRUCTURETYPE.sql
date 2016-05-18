@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM f_structuretype FOR pontis.f_structuretype;
